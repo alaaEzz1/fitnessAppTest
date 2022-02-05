@@ -47,7 +47,8 @@ public class MainActivity extends AppCompatActivity {
                     ,WorkoutActivity.class);
             intent.addFlags(Intent.FLAG_ACTIVITY_NO_ANIMATION);
             startActivity(intent);
-
+            Toast.makeText(getApplicationContext(),
+                    "continue to exercises", Toast.LENGTH_SHORT).show();
         });
 
     }
