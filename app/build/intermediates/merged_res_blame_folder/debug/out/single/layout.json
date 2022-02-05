@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_workout.xml",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\layout\\activity_workout.xml"
+    }
+]

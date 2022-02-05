@@ -1,0 +1,11 @@
+com/elmohandes/basicfitnessapp/BuildConfig.java
+ com.elmohandes.basicfitnessapp.BuildConfig
+com/elmohandes/basicfitnessapp/databinding/ActivityWorkoutBinding.java
+ com.elmohandes.basicfitnessapp.databinding.ActivityWorkoutBinding
+com/elmohandes/basicfitnessapp/databinding/ActivityMainBinding.java
+ com.elmohandes.basicfitnessapp.databinding.ActivityMainBinding
+com/elmohandes/basicfitnessapp/WorkoutActivity.java
+ com.elmohandes.basicfitnessapp.WorkoutActivity
+com/elmohandes/basicfitnessapp/MainActivity.java
+ com.elmohandes.basicfitnessapp.MainActivity
+ com.elmohandes.basicfitnessapp.MainActivity$1

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\font_bungee.ttf.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\font\\bungee.ttf"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\anim_image_anim.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\anim\\image_anim.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\anim_bgprogress_anim.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\anim\\bgprogress_anim.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_fitness.png.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\fitness.png"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bicep.jpg.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\bicep.jpg"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\anim_title_anim.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\anim\\title_anim.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_chest.jpg.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\chest.jpg"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shoulder.jpg.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\shoulder.jpg"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\anim_btnexercise_anim.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\anim\\btnexercise_anim.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_leg.jpg.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\leg.jpg"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_workout.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\layout\\activity_workout.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\anim_bgprogresstop_anim.xml.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\anim\\bgprogresstop_anim.xml"
+    },
+    {
+        "merged": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\projects\\android\\java\\BasicFitnessApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
